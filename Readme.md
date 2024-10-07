@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `PredictionMarket` smart contract:
-
----
+![sy](https://github.com/user-attachments/assets/96991523-8842-4ce7-a77f-bb689a8a2446)
 
 # Prediction Market Smart Contract
 
